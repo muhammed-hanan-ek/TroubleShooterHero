@@ -1,6 +1,6 @@
 
 
-const serverUrl="http://localhost:3000"
+const serverUrl="https://trouble-shooter-1.onrender.com"
 
 
 export default serverUrl
